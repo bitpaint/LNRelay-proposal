@@ -6,9 +6,11 @@ has_children: false
 ---
 
 
-⚠️ UI Ideas ⚠️
+UI Ideas 
 {: .btn }
 
 ![ui][https://raw.githubusercontent.com/bitpaint/LNRelay-proposal/gh-pages/img/ui1.jpg]
-<br><br>
+
+
+
 ![config ui][https://raw.githubusercontent.com/bitpaint/LNRelay-proposal/gh-pages/img/ui2.jpg]
