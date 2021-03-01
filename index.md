@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Acceuil
+nav_order: 1
+---
 
-You can use the [editor on GitHub](https://github.com/bitpaint/LNRelay-proposal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<span class="fs-8"> Bienvenue! </span><br>
+<b>Vous trouverez ici toute sorte de documentation concernant:
+- bitcoin, 
+- vie privée en ligne
+- souverainetée numérique.</b><br>
+<br>
+J'utilise en général:
+- Un ordinateur Windows 10, mis a jour.<br>
+- Un téléphone Android (Google Pixel 4a)<br>
+<br>	
+La plupart des tutoriels restent les mêmes pour Mac et iOS.<br><br>
+Une erreur? Une idée? <br><b>Contactez moi!<br></b> 
+twitter: @bitpaintclub - telegram: @bitpaint
 
-### Markdown
+	
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<br><br>
+<span class="fs-8">
+Noeuds bitcoin</span><br>
 
-# Header 1
-## Header 2
-### Header 3
+<span class="fs-3">
+[Umbrel](http://example.com/){: .btn }
+</span>
+<span class="fs-3">
+[BTCPay](http://example.com/){: .btn }
+</span>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<br><br>
+<span class="fs-8">
+Tuto apps
+</span><br>
+<span class="fs-3"><br>
+[Zap](http://example.com/){: .btn }
+</span>
+<span class="fs-3">
+[Zeus](http://example.com/){: .btn }
+</span>
+<span class="fs-3">
+[Sphinx](http://example.com/){: .btn }
+</span>
+<span class="fs-3">
+[Bluewallet](http://example.com/){: .btn }
+</span>
 
-**Bold** and _Italic_ and `Code` text
+<br><br>
+<span class="fs-8">
+Vie privée
+</span><br>
+<span class="fs-3"><br>
+[GrapheneOS](http://example.com/){: .btn }
+</span><br>
+<span class="fs-3">
+[Tails](http://example.com/){: .btn }
+</span>
+<span class="fs-3">
+[Opendime](http://example.com/){: .btn }
+</span>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitpaint/LNRelay-proposal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
