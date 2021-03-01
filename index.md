@@ -17,9 +17,10 @@ It seems like the easy and scaleable way to achieve that is using LNBits.  Plugi
 
 The goal is to provide a lightweight, cheap and easy to integrate<br> base system that controls a 5V relay on a ESP32/M5Stack board when a Lightning payment is made.
 <br><br>
-**Hardware requirements:**
+**Requirements:**
 - Bitcoin & Lightning Network <br>
 - LNBits installed<br>
+- ESP32 or M5Stack board
 <br>	
 
 
