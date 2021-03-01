@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acceuil
+title: LNRelay proposal
 nav_order: 1
 ---
 
