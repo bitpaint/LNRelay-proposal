@@ -7,10 +7,9 @@ nav_order: 1
 
 <span class="fs-8"> LNRelay! </span><br>
 <b>Lightning IOT, as a plugin, for everybody!
-( LNBits / Umbrel / BTCPay / Raspiblitz etc…)
-</b><br>
-**The goal is to provide a lightweight, cheap and easy to integrate base system that controls a 5V relay on a ESP32/M5Stack board when a Lightning payment is made.**
-<br>
+( LNBits / Umbrel / BTCPay / Raspiblitz etc…)<br><br>
+The goal is to provide a lightweight, cheap and easy to integrate base system that controls a 5V relay on a ESP32/M5Stack board when a Lightning payment is made.
+<br><br>
 **Hardware requirements:**
 - Bitcoin & Lightning Network <br>
 - LNBits installed<br>
